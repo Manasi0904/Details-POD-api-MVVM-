@@ -1,0 +1,16 @@
+PODS:
+  - CryptoSwift (1.8.4)
+
+DEPENDENCIES:
+  - CryptoSwift
+
+SPEC REPOS:
+  trunk:
+    - CryptoSwift
+
+SPEC CHECKSUMS:
+  CryptoSwift: e64e11850ede528a02a0f3e768cec8e9d92ecb90
+
+PODFILE CHECKSUM: 1e4bb3ac6937c9750acd26d94df29867c2fd858a
+
+COCOAPODS: 1.16.2
